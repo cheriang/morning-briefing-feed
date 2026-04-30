@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Morning Briefing for George</title>
+    <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
+    <description>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</description>
+    <atom:link href="https://cheriang.github.io/morning-briefing-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://cheriang.github.io/morning-briefing-feed/cover.jpg</url>
+      <title>Morning Briefing for George</title>
+      <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
+    </image>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Apr 2026 20:39:28 +0000</lastBuildDate>
+    <itunes:author>George Cherian</itunes:author>
+    <itunes:category text="News"/>
+    <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>George Cherian</itunes:name>
+      <itunes:email>gcherian@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+  </channel>
+</rss>
