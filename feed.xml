@@ -13,7 +13,7 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Apr 2026 20:42:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 12:37:35 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
@@ -25,8 +25,17 @@
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Briefing — Friday, May 1</title>
+      <description>In world business, oil prices dipped after reports that Iran sent a response to a draft peace agreement — a signal that diplomatic channels are still open, which tends to ease supply-risk premiums…</description>
+      <guid isPermaLink="false">2026-05-01</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-05-01.mp3" length="2713965" type="audio/mpeg"/>
+      <pubDate>Fri, 01 May 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>05:39</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+    </item>
+    <item>
       <title>Briefing — Thursday, April 30</title>
-      <description>In world business, first quarter GDP came in at two percent annualized — a meaningful rebound from the zero point five percent pace at the end of last year, which had been dragged down by federal…</description>
+      <description>In world business, Apple posted seventeen percent revenue growth in its second quarter, beating estimates even as iPhone unit sales came in below expectations. The real driver was services — a…</description>
       <guid isPermaLink="false">2026-04-30</guid>
       <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-04-30.mp3" length="2778669" type="audio/mpeg"/>
       <pubDate>Thu, 30 Apr 2026 06:00:00 -0400</pubDate>
