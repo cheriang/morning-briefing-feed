@@ -13,7 +13,7 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 May 2026 10:02:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 10:02:26 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
@@ -24,6 +24,15 @@
     </itunes:owner>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Friday, May 8</title>
+      <description>In world business, three stories are shaping the macro picture. Oil prices moved higher after a military exchange between US and Iranian forces in the Strait of Hormuz — President Trump says the…</description>
+      <guid isPermaLink="false">2026-05-08</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-05-08.mp3" length="3183789" type="audio/mpeg"/>
+      <pubDate>Fri, 08 May 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>06:38</itunes:duration>
+      <itunes:episode>9</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Thursday, May 7</title>
       <description>In world business, the conflict with Iran is reshaping energy markets in real time. Shell posted a nearly twenty-five percent jump in quarterly profits, beating estimates as the Iran war drove…</description>
