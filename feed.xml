@@ -13,7 +13,7 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 May 2026 10:02:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 10:02:33 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
@@ -24,6 +24,15 @@
     </itunes:owner>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Thursday, May 14</title>
+      <description>In world business, Kevin Warsh was confirmed by the Senate Wednesday as the next Federal Reserve chair, replacing Jerome Powell. The fifty-four to forty-five vote was the most divisive confirmation…</description>
+      <guid isPermaLink="false">2026-05-14</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-05-14.mp3" length="2802285" type="audio/mpeg"/>
+      <pubDate>Thu, 14 May 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>05:50</itunes:duration>
+      <itunes:episode>15</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Wednesday, May 13</title>
       <description>In world business, Tencent reported first-quarter twenty twenty-six earnings showing strength in gaming and AI demand, though overall revenue came in below expectations. That combination — AI and…</description>
