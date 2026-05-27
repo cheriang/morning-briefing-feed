@@ -13,7 +13,7 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 May 2026 10:02:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 10:02:36 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
@@ -24,6 +24,15 @@
     </itunes:owner>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Wednesday, May 27</title>
+      <description>In world business, European manufacturers are doubling down on China supply chains despite pressure from Brussels to de-risk. Low production costs are winning out over geopolitical caution — a…</description>
+      <guid isPermaLink="false">2026-05-27</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-05-27.mp3" length="3287085" type="audio/mpeg"/>
+      <pubDate>Wed, 27 May 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>06:51</itunes:duration>
+      <itunes:episode>28</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Tuesday, May 26</title>
       <description>In world business, oil prices dropped below one hundred dollars a barrel Monday — Brent crude fell roughly six percent to around ninety-seven dollars — on signals that the US and Iran may be nearing…</description>
