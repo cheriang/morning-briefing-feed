@@ -13,7 +13,7 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 May 2026 10:02:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 10:02:23 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
@@ -25,8 +25,17 @@
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Briefing — Thursday, May 28</title>
+      <description>In world business, the macro picture is being driven by the U.S.-Iran conflict. Fresh American strikes prompted Iran to target a U.S. airbase, and oil jumped two and a half percent this morning on…</description>
+      <guid isPermaLink="false">2026-05-28</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-05-28.mp3" length="3115245" type="audio/mpeg"/>
+      <pubDate>Thu, 28 May 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>06:29</itunes:duration>
+      <itunes:episode>29</itunes:episode>
+    </item>
+    <item>
       <title>Briefing — Wednesday, May 27</title>
-      <description>In world business, European manufacturers are doubling down on China supply chains despite pressure from Brussels to de-risk. Low production costs are winning out over geopolitical caution — a…</description>
+      <description>In world business, the dominant story is oil. U.S. crude dropped roughly three percent after Iranian state media released details of a draft peace deal with the U.S. that would reopen the Strait of…</description>
       <guid isPermaLink="false">2026-05-27</guid>
       <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-05-27.mp3" length="3287085" type="audio/mpeg"/>
       <pubDate>Wed, 27 May 2026 06:00:00 -0400</pubDate>
