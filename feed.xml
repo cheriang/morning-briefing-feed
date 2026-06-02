@@ -13,7 +13,7 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jun 2026 10:03:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 10:02:27 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
@@ -24,6 +24,15 @@
     </itunes:owner>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Tuesday, June 2</title>
+      <description>In world business, the Trump administration has proposed a twenty-five percent tariff on Brazilian goods, citing unfair trade practices under a Section 301 investigation directed by the president…</description>
+      <guid isPermaLink="false">2026-06-02</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-06-02.mp3" length="3140781" type="audio/mpeg"/>
+      <pubDate>Tue, 02 Jun 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>06:33</itunes:duration>
+      <itunes:episode>34</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Monday, June 1</title>
       <description>In world business, Federal Reserve Chair Jerome Powell is sounding an alarm about political pressure from the White House, warning it will erode public trust in the central bank's independence…</description>
