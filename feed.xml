@@ -13,7 +13,7 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Jun 2026 10:02:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 10:02:49 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
@@ -25,8 +25,17 @@
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Briefing — Wednesday, June 3</title>
+      <description>In world business, the U.S. Trade Representative has proposed fresh tariffs on sixty economies, citing forced labor trade practices. The proposal sets a ten percent duty rate for economies with full…</description>
+      <guid isPermaLink="false">2026-06-03</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-06-03.mp3" length="3460077" type="audio/mpeg"/>
+      <pubDate>Wed, 03 Jun 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>07:12</itunes:duration>
+      <itunes:episode>35</itunes:episode>
+    </item>
+    <item>
       <title>Briefing — Tuesday, June 2</title>
-      <description>In world business, the Trump administration has proposed a twenty-five percent tariff on Brazilian goods, citing unfair trade practices under a Section 301 investigation directed by the president…</description>
+      <description>In world business, the Trump administration is proposing a twenty-five percent tariff on Brazilian goods under a Section 301 investigation, citing unfair trade practices. That adds Brazil to a…</description>
       <guid isPermaLink="false">2026-06-02</guid>
       <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-06-02.mp3" length="3140781" type="audio/mpeg"/>
       <pubDate>Tue, 02 Jun 2026 06:00:00 -0400</pubDate>
