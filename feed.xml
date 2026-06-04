@@ -13,7 +13,7 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Jun 2026 10:02:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 10:02:36 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
@@ -24,6 +24,15 @@
     </itunes:owner>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Thursday, June 4</title>
+      <description>In world business, Asia-Pacific markets opened lower overnight as renewed tensions between Iran and the U.S. raised concerns about sustained inflation pressure. Separately, Amazon engineers in…</description>
+      <guid isPermaLink="false">2026-06-04</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-06-04.mp3" length="3408045" type="audio/mpeg"/>
+      <pubDate>Thu, 04 Jun 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>07:06</itunes:duration>
+      <itunes:episode>36</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Wednesday, June 3</title>
       <description>In world business, the U.S. Trade Representative has proposed fresh tariffs on sixty economies, citing forced labor trade practices. The proposal sets a ten percent duty rate for economies with full…</description>
@@ -221,15 +230,6 @@
       <pubDate>Tue, 05 May 2026 06:00:00 -0400</pubDate>
       <itunes:duration>05:54</itunes:duration>
       <itunes:episode>6</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Monday, May 4</title>
-      <description>In world business, oil prices are moving higher after a tanker was struck by projectiles north of Fujairah in the United Arab Emirates. The UK Maritime Trade Operations agency confirmed the incident…</description>
-      <guid isPermaLink="false">2026-05-04</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-05-04.mp3" length="2615469" type="audio/mpeg"/>
-      <pubDate>Mon, 04 May 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>05:27</itunes:duration>
-      <itunes:episode>5</itunes:episode>
     </item>
   </channel>
 </rss>
