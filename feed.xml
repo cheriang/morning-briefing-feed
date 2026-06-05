@@ -13,7 +13,7 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Jun 2026 10:02:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 10:02:31 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
@@ -24,6 +24,15 @@
     </itunes:owner>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Friday, June 5</title>
+      <description>In world business, energy markets have been volatile enough this year that quantitative hedge funds — the computer-driven trend-followers — have made significant gains riding the swings. Those funds…</description>
+      <guid isPermaLink="false">2026-06-05</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-06-05.mp3" length="3064557" type="audio/mpeg"/>
+      <pubDate>Fri, 05 Jun 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>06:23</itunes:duration>
+      <itunes:episode>37</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Thursday, June 4</title>
       <description>In world business, Asia-Pacific markets opened lower overnight as renewed tensions between Iran and the U.S. raised concerns about sustained inflation pressure. Separately, Amazon engineers in…</description>
@@ -221,15 +230,6 @@
       <pubDate>Wed, 06 May 2026 06:00:00 -0400</pubDate>
       <itunes:duration>06:54</itunes:duration>
       <itunes:episode>7</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Tuesday, May 5</title>
-      <description>In world business, Australia's central bank has raised rates again and is warning that inflation will stay elevated longer than expected, citing a pickup in price pressures through the second half…</description>
-      <guid isPermaLink="false">2026-05-05</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-05-05.mp3" length="2830701" type="audio/mpeg"/>
-      <pubDate>Tue, 05 May 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>05:54</itunes:duration>
-      <itunes:episode>6</itunes:episode>
     </item>
   </channel>
 </rss>
