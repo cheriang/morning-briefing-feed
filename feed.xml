@@ -13,17 +13,22 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Jun 2026 10:08:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 10:15:18 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:owner>
-      <itunes:name>George Cherian</itunes:name>
-      <itunes:email>gcherian@gmail.com</itunes:email>
-    </itunes:owner>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Thursday, June 11</title>
+      <description>In world business, US inflation hit four point two percent in May — a three-year high and the third consecutive monthly increase since the start of the Iran conflict. The closure of the Strait of…</description>
+      <guid isPermaLink="false">2026-06-11</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-06-11.mp3" length="2757741" type="audio/mpeg"/>
+      <pubDate>Thu, 11 Jun 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>05:45</itunes:duration>
+      <itunes:episode>43</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Wednesday, June 10</title>
       <description>In world business, U.S. military strikes against Iran are moving oil markets this morning. Prices rose on concerns that renewed conflict could threaten shipping through the Strait of Hormuz — a…</description>
@@ -221,15 +226,6 @@
       <pubDate>Tue, 12 May 2026 06:00:00 -0400</pubDate>
       <itunes:duration>06:28</itunes:duration>
       <itunes:episode>13</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Monday, May 11</title>
-      <description>In world business, two stories are driving the macro picture this morning. First, oil. Brent crude has crossed one hundred and three dollars a barrel after the Trump administration rejected Iran's…</description>
-      <guid isPermaLink="false">2026-05-11</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-05-11.mp3" length="2666541" type="audio/mpeg"/>
-      <pubDate>Mon, 11 May 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>05:33</itunes:duration>
-      <itunes:episode>12</itunes:episode>
     </item>
   </channel>
 </rss>
