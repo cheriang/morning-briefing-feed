@@ -13,13 +13,22 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Jun 2026 10:15:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 10:02:47 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Friday, June 12</title>
+      <description>In world business, Meta has reportedly begun unwinding its two billion dollar acquisition of Manus, the Chinese-founded AI startup, after Beijing ordered the deal reversed. It's an unusual assertion…</description>
+      <guid isPermaLink="false">2026-06-12</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-06-12.mp3" length="3102765" type="audio/mpeg"/>
+      <pubDate>Fri, 12 Jun 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>06:28</itunes:duration>
+      <itunes:episode>44</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Thursday, June 11</title>
       <description>In world business, US inflation hit four point two percent in May — a three-year high and the third consecutive monthly increase since the start of the Iran conflict. The closure of the Strait of…</description>
@@ -217,15 +226,6 @@
       <pubDate>Wed, 13 May 2026 06:00:00 -0400</pubDate>
       <itunes:duration>06:15</itunes:duration>
       <itunes:episode>14</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Tuesday, May 12</title>
-      <description>In world business, oil is the dominant story. Prices extended gains this morning after President Trump described the ceasefire with Iran as on "life support," raising concerns about a prolonged…</description>
-      <guid isPermaLink="false">2026-05-12</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-05-12.mp3" length="3101805" type="audio/mpeg"/>
-      <pubDate>Tue, 12 May 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>06:28</itunes:duration>
-      <itunes:episode>13</itunes:episode>
     </item>
   </channel>
 </rss>
