@@ -13,13 +13,22 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Jun 2026 10:02:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 10:01:55 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Monday, June 15</title>
+      <description>In world business, a US-Iran deal announced over the weekend is moving markets. President Trump confirmed the Strait of Hormuz will be reopened under the agreement — oil prices dropped on the news…</description>
+      <guid isPermaLink="false">2026-06-15</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-06-15.mp3" length="2525997" type="audio/mpeg"/>
+      <pubDate>Mon, 15 Jun 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>05:16</itunes:duration>
+      <itunes:episode>47</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Friday, June 12</title>
       <description>In world business, Meta has reportedly begun unwinding its two billion dollar acquisition of Manus, the Chinese-founded AI startup, after Beijing ordered the deal reversed. It's an unusual assertion…</description>
@@ -199,33 +208,6 @@
       <pubDate>Mon, 18 May 2026 06:00:00 -0400</pubDate>
       <itunes:duration>04:13</itunes:duration>
       <itunes:episode>19</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Friday, May 15</title>
-      <description>In world business, oil prices moved higher this morning after reports that China has agreed to purchase American crude following talks between the two governments. That's a meaningful signal for…</description>
-      <guid isPermaLink="false">2026-05-15</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-05-15.mp3" length="2847405" type="audio/mpeg"/>
-      <pubDate>Fri, 15 May 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>05:56</itunes:duration>
-      <itunes:episode>16</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Thursday, May 14</title>
-      <description>In world business, Kevin Warsh was confirmed by the Senate Wednesday as the next Federal Reserve chair, replacing Jerome Powell. The fifty-four to forty-five vote was the most divisive confirmation…</description>
-      <guid isPermaLink="false">2026-05-14</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-05-14.mp3" length="2802285" type="audio/mpeg"/>
-      <pubDate>Thu, 14 May 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>05:50</itunes:duration>
-      <itunes:episode>15</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Wednesday, May 13</title>
-      <description>In world business, Tencent reported first-quarter twenty twenty-six earnings showing strength in gaming and AI demand, though overall revenue came in below expectations. That combination — AI and…</description>
-      <guid isPermaLink="false">2026-05-13</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-05-13.mp3" length="3003693" type="audio/mpeg"/>
-      <pubDate>Wed, 13 May 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>06:15</itunes:duration>
-      <itunes:episode>14</itunes:episode>
     </item>
   </channel>
 </rss>
