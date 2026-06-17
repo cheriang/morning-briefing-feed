@@ -13,13 +13,22 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jun 2026 10:01:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 10:02:46 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Wednesday, June 17</title>
+      <description>In world business, UK inflation held steady at two point eight percent in May, according to the Office for National Statistics. Food price increases slowed enough to offset higher petrol costs. The…</description>
+      <guid isPermaLink="false">2026-06-17</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-06-17.mp3" length="3203373" type="audio/mpeg"/>
+      <pubDate>Wed, 17 Jun 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>06:40</itunes:duration>
+      <itunes:episode>49</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Monday, June 15</title>
       <description>In world business, a US-Iran deal announced over the weekend is moving markets. President Trump confirmed the Strait of Hormuz will be reopened under the agreement — oil prices dropped on the news…</description>
