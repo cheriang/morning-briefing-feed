@@ -13,13 +13,22 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Jun 2026 10:02:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 10:03:19 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Thursday, June 18</title>
+      <description>In world business, the Federal Reserve under new Chairman Kevin Warsh held rates steady at Wednesday's meeting and notably stripped the cutting bias from its policy statement — a signal that markets…</description>
+      <guid isPermaLink="false">2026-06-18</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-06-18.mp3" length="3330093" type="audio/mpeg"/>
+      <pubDate>Thu, 18 Jun 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>06:56</itunes:duration>
+      <itunes:episode>50</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Wednesday, June 17</title>
       <description>In world business, UK inflation held steady at two point eight percent in May, according to the Office for National Statistics. Food price increases slowed enough to offset higher petrol costs. The…</description>
@@ -208,15 +217,6 @@
       <pubDate>Tue, 19 May 2026 06:00:00 -0400</pubDate>
       <itunes:duration>06:01</itunes:duration>
       <itunes:episode>20</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Monday, May 18</title>
-      <description>In world business, two stories are moving markets this morning. Oil prices swung sharply after President Trump said he called off planned strikes on Iran, though the Strait of Hormuz remains…</description>
-      <guid isPermaLink="false">2026-05-18</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-05-18.mp3" length="2025837" type="audio/mpeg"/>
-      <pubDate>Mon, 18 May 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>04:13</itunes:duration>
-      <itunes:episode>19</itunes:episode>
     </item>
   </channel>
 </rss>
