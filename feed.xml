@@ -13,13 +13,22 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Jun 2026 10:01:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 10:02:27 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Tuesday, June 23</title>
+      <description>In world business, oil prices are falling as investors grow cautiously optimistic that Middle East tensions may ease. Citi analysts are describing the geopolitical risk premium as an "overhang" that…</description>
+      <guid isPermaLink="false">2026-06-23</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-06-23.mp3" length="2956461" type="audio/mpeg"/>
+      <pubDate>Tue, 23 Jun 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>06:10</itunes:duration>
+      <itunes:episode>55</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Monday, June 22</title>
       <description>In world business, Treasury yields are climbing as markets return from the holiday weekend. The ten-year note rose more than three basis points to four point four eight three percent, with investors…</description>
