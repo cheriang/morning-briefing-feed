@@ -13,13 +13,22 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Jun 2026 10:02:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 10:03:12 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Thursday, June 25</title>
+      <description>In world business, the big story is memory chips. Micron reported quarterly revenue of forty-one point four six billion dollars — more than quadruple the nine point three billion it posted a year…</description>
+      <guid isPermaLink="false">2026-06-25</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-06-25.mp3" length="3607149" type="audio/mpeg"/>
+      <pubDate>Thu, 25 Jun 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>07:31</itunes:duration>
+      <itunes:episode>57</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Wednesday, June 24</title>
       <description>In world business, the White House says it will investigate potential price gouging by oil companies. Global crude prices have fallen since the US-Israel conflict with Iran, but remain elevated…</description>
@@ -199,15 +208,6 @@
       <pubDate>Tue, 26 May 2026 06:00:00 -0400</pubDate>
       <itunes:duration>06:56</itunes:duration>
       <itunes:episode>27</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Monday, May 25</title>
-      <description>In world business, the dominant story is oil. Reports over the weekend suggest the US is close to a deal that would end the conflict with Iran and reopen the Strait of Hormuz. Trump confirmed the…</description>
-      <guid isPermaLink="false">2026-05-25</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-05-25.mp3" length="2494509" type="audio/mpeg"/>
-      <pubDate>Mon, 25 May 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>05:12</itunes:duration>
-      <itunes:episode>26</itunes:episode>
     </item>
   </channel>
 </rss>
