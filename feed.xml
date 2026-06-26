@@ -13,13 +13,22 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jun 2026 10:03:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 10:02:59 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Friday, June 26</title>
+      <description>In world business, the Federal Reserve remains a split signal. Chicago Fed President Goolsbee said Thursday that inflation is still too high, while New York Fed President Williams struck a more…</description>
+      <guid isPermaLink="false">2026-06-26</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-06-26.mp3" length="2940717" type="audio/mpeg"/>
+      <pubDate>Fri, 26 Jun 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>06:08</itunes:duration>
+      <itunes:episode>58</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Thursday, June 25</title>
       <description>In world business, the big story is memory chips. Micron reported quarterly revenue of forty-one point four six billion dollars — more than quadruple the nine point three billion it posted a year…</description>
@@ -199,15 +208,6 @@
       <pubDate>Wed, 27 May 2026 06:00:00 -0400</pubDate>
       <itunes:duration>06:51</itunes:duration>
       <itunes:episode>28</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Tuesday, May 26</title>
-      <description>In world business, oil prices dropped below one hundred dollars a barrel Monday — Brent crude fell roughly six percent to around ninety-seven dollars — on signals that the US and Iran may be nearing…</description>
-      <guid isPermaLink="false">2026-05-26</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-05-26.mp3" length="3326829" type="audio/mpeg"/>
-      <pubDate>Tue, 26 May 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>06:56</itunes:duration>
-      <itunes:episode>27</itunes:episode>
     </item>
   </channel>
 </rss>
