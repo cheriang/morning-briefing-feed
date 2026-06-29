@@ -13,13 +13,22 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Jun 2026 10:02:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 10:02:27 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Monday, June 29</title>
+      <description>In world business, the Bank for International Settlements — the central bank of central banks — is sounding an alarm about AI-driven market froth. Its annual report flags rich stock valuations…</description>
+      <guid isPermaLink="false">2026-06-29</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-06-29.mp3" length="2559789" type="audio/mpeg"/>
+      <pubDate>Mon, 29 Jun 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>05:20</itunes:duration>
+      <itunes:episode>61</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Friday, June 26</title>
       <description>In world business, the Federal Reserve remains a split signal. Chicago Fed President Goolsbee said Thursday that inflation is still too high, while New York Fed President Williams struck a more…</description>
@@ -181,33 +190,6 @@
       <pubDate>Mon, 01 Jun 2026 06:00:00 -0400</pubDate>
       <itunes:duration>05:49</itunes:duration>
       <itunes:episode>33</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Friday, May 29</title>
-      <description>In world business, US inflation rose at its fastest pace in three years in April, driven largely by higher energy prices tied to the conflict with Iran. The Federal Reserve is now widely expected to…</description>
-      <guid isPermaLink="false">2026-05-29</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-05-29.mp3" length="3097965" type="audio/mpeg"/>
-      <pubDate>Fri, 29 May 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>06:27</itunes:duration>
-      <itunes:episode>30</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Thursday, May 28</title>
-      <description>In world business, the macro picture is being driven by the U.S.-Iran conflict. Fresh American strikes prompted Iran to target a U.S. airbase, and oil jumped two and a half percent this morning on…</description>
-      <guid isPermaLink="false">2026-05-28</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-05-28.mp3" length="3115245" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>06:29</itunes:duration>
-      <itunes:episode>29</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Wednesday, May 27</title>
-      <description>In world business, the dominant story is oil. U.S. crude dropped roughly three percent after Iranian state media released details of a draft peace deal with the U.S. that would reopen the Strait of…</description>
-      <guid isPermaLink="false">2026-05-27</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-05-27.mp3" length="3287085" type="audio/mpeg"/>
-      <pubDate>Wed, 27 May 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>06:51</itunes:duration>
-      <itunes:episode>28</itunes:episode>
     </item>
   </channel>
 </rss>
