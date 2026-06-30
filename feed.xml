@@ -13,13 +13,22 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Jun 2026 10:02:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 10:02:43 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Tuesday, June 30</title>
+      <description>In world business, the European Central Bank's inflation outlook is darkening. Bundesbank president Joachim Nagel told CNBC on the sidelines of an ECB conference in Portugal that inflation is likely…</description>
+      <guid isPermaLink="false">2026-06-30</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-06-30.mp3" length="3186477" type="audio/mpeg"/>
+      <pubDate>Tue, 30 Jun 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>06:38</itunes:duration>
+      <itunes:episode>62</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Monday, June 29</title>
       <description>In world business, the Bank for International Settlements — the central bank of central banks — is sounding an alarm about AI-driven market froth. Its annual report flags rich stock valuations…</description>
