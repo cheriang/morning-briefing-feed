@@ -13,13 +13,22 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jul 2026 10:03:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 10:02:33 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Thursday, July 2</title>
+      <description>In world business, oil prices are on track for a fourth straight weekly loss after U.S.-Iran talks concluded in Doha Wednesday. Prices fell more than one percent on the session — a signal that…</description>
+      <guid isPermaLink="false">2026-07-02</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-07-02.mp3" length="3096237" type="audio/mpeg"/>
+      <pubDate>Thu, 02 Jul 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>06:27</itunes:duration>
+      <itunes:episode>64</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Wednesday, July 1</title>
       <description>In world business, the UAE's sovereign wealth-backed AI firm MGX has closed what is one of the largest AI investment funds ever — forty-nine billion dollars. The fund backs OpenAI, Anthropic, and…</description>
@@ -199,15 +208,6 @@
       <pubDate>Tue, 02 Jun 2026 06:00:00 -0400</pubDate>
       <itunes:duration>06:33</itunes:duration>
       <itunes:episode>34</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Monday, June 1</title>
-      <description>In world business, Federal Reserve Chair Jerome Powell is sounding an alarm about political pressure from the White House, warning it will erode public trust in the central bank's independence…</description>
-      <guid isPermaLink="false">2026-06-01</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-06-01.mp3" length="2795565" type="audio/mpeg"/>
-      <pubDate>Mon, 01 Jun 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>05:49</itunes:duration>
-      <itunes:episode>33</itunes:episode>
     </item>
   </channel>
 </rss>
