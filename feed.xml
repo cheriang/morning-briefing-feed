@@ -13,13 +13,22 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Jul 2026 10:02:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 10:02:50 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Monday, July 6</title>
+      <description>In world business, South Korean prosecutors have indicted four major domestic oil refiners on allegations of price collusion in violation of fair trade laws. The details are still emerging, but it's…</description>
+      <guid isPermaLink="false">2026-07-06</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-07-06.mp3" length="2914413" type="audio/mpeg"/>
+      <pubDate>Mon, 06 Jul 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>06:04</itunes:duration>
+      <itunes:episode>68</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Thursday, July 2</title>
       <description>In world business, oil prices are on track for a fourth straight weekly loss after U.S.-Iran talks concluded in Doha Wednesday. Prices fell more than one percent on the session — a signal that…</description>
@@ -172,42 +181,6 @@
       <pubDate>Mon, 08 Jun 2026 06:00:00 -0400</pubDate>
       <itunes:duration>06:04</itunes:duration>
       <itunes:episode>40</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Friday, June 5</title>
-      <description>In world business, energy markets have been volatile enough this year that quantitative hedge funds — the computer-driven trend-followers — have made significant gains riding the swings. Those funds…</description>
-      <guid isPermaLink="false">2026-06-05</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-06-05.mp3" length="3064557" type="audio/mpeg"/>
-      <pubDate>Fri, 05 Jun 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>06:23</itunes:duration>
-      <itunes:episode>37</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Thursday, June 4</title>
-      <description>In world business, Asia-Pacific markets opened lower overnight as renewed tensions between Iran and the U.S. raised concerns about sustained inflation pressure. Separately, Amazon engineers in…</description>
-      <guid isPermaLink="false">2026-06-04</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-06-04.mp3" length="3408045" type="audio/mpeg"/>
-      <pubDate>Thu, 04 Jun 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>07:06</itunes:duration>
-      <itunes:episode>36</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Wednesday, June 3</title>
-      <description>In world business, the U.S. Trade Representative has proposed fresh tariffs on sixty economies, citing forced labor trade practices. The proposal sets a ten percent duty rate for economies with full…</description>
-      <guid isPermaLink="false">2026-06-03</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-06-03.mp3" length="3460077" type="audio/mpeg"/>
-      <pubDate>Wed, 03 Jun 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>07:12</itunes:duration>
-      <itunes:episode>35</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Tuesday, June 2</title>
-      <description>In world business, the Trump administration is proposing a twenty-five percent tariff on Brazilian goods under a Section 301 investigation, citing unfair trade practices. That adds Brazil to a…</description>
-      <guid isPermaLink="false">2026-06-02</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-06-02.mp3" length="3140781" type="audio/mpeg"/>
-      <pubDate>Tue, 02 Jun 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>06:33</itunes:duration>
-      <itunes:episode>34</itunes:episode>
     </item>
   </channel>
 </rss>
