@@ -13,13 +13,22 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Jul 2026 10:02:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 10:03:00 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Tuesday, July 7</title>
+      <description>In world business, oil prices are moving higher after reports of an Iranian attack on commercial ships in the Strait of Hormuz. Brent and U.S. crude futures both rose on the news — a reminder of how…</description>
+      <guid isPermaLink="false">2026-07-07</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-07-07.mp3" length="2957997" type="audio/mpeg"/>
+      <pubDate>Tue, 07 Jul 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>06:10</itunes:duration>
+      <itunes:episode>69</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Monday, July 6</title>
       <description>In world business, South Korean prosecutors have indicted four major domestic oil refiners on allegations of price collusion in violation of fair trade laws. The details are still emerging, but it's…</description>
