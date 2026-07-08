@@ -13,13 +13,22 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jul 2026 10:03:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 10:02:29 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Wednesday, July 8</title>
+      <description>In world business, Samsung's earnings report triggered a sell-off in AI hardware stocks yesterday, while lagging tech names rebounded — a rotation worth watching if it signals a broader shift in…</description>
+      <guid isPermaLink="false">2026-07-08</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-07-08.mp3" length="2785965" type="audio/mpeg"/>
+      <pubDate>Wed, 08 Jul 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>05:48</itunes:duration>
+      <itunes:episode>70</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Tuesday, July 7</title>
       <description>In world business, oil prices are moving higher after reports of an Iranian attack on commercial ships in the Strait of Hormuz. Brent and U.S. crude futures both rose on the news — a reminder of how…</description>
