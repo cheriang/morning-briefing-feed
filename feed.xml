@@ -13,13 +13,22 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Jul 2026 10:02:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 10:02:56 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Friday, July 17</title>
+      <description>In world business, oil prices are climbing this morning as tensions between the U.S. and Iran raise concerns about supply through the Strait of Hormuz — a chokepoint for roughly a fifth of global…</description>
+      <guid isPermaLink="false">2026-07-17</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-07-17.mp3" length="3125229" type="audio/mpeg"/>
+      <pubDate>Fri, 17 Jul 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>06:31</itunes:duration>
+      <itunes:episode>79</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Thursday, July 16</title>
       <description>In world business, UnitedHealth beat second-quarter estimates and raised its full-year earnings outlook, crediting cost discipline — shrinking membership, exiting unprofitable contracts, and…</description>
