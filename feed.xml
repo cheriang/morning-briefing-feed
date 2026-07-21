@@ -13,13 +13,22 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Jul 2026 10:02:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 10:02:58 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Tuesday, July 21</title>
+      <description>In world business, the dominant story is a major escalation in US-Canada trade relations. The White House announced fifty percent tariffs on most Canadian goods — including products previously…</description>
+      <guid isPermaLink="false">2026-07-21</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-07-21.mp3" length="3605037" type="audio/mpeg"/>
+      <pubDate>Tue, 21 Jul 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>07:31</itunes:duration>
+      <itunes:episode>83</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Monday, July 20</title>
       <description>In world business, the Iran conflict is rippling through aviation and energy markets. Ryanair reported a drop in profits, citing both reduced passenger demand and higher fuel costs as Brent crude…</description>
