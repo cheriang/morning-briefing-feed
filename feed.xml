@@ -13,13 +13,22 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Jul 2026 10:02:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 10:02:34 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Wednesday, July 22</title>
+      <description>In world business, oil prices jumped four percent overnight after Secretary of State Rubio declared Iran "not serious" about peace talks, effectively closing the door on a near-term ceasefire…</description>
+      <guid isPermaLink="false">2026-07-22</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-07-22.mp3" length="3218733" type="audio/mpeg"/>
+      <pubDate>Wed, 22 Jul 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>06:42</itunes:duration>
+      <itunes:episode>84</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Tuesday, July 21</title>
       <description>In world business, the dominant story is a major escalation in US-Canada trade relations. The White House announced fifty percent tariffs on most Canadian goods — including products previously…</description>
