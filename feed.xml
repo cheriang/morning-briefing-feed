@@ -13,13 +13,22 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Jul 2026 10:02:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 10:03:22 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Thursday, July 23</title>
+      <description>In world business, oil is the story. U.S. crude has topped ninety dollars a barrel and Brent is above ninety-eight after Houthi attacks struck tankers in the Red Sea, including Saudi vessels near…</description>
+      <guid isPermaLink="false">2026-07-23</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-07-23.mp3" length="3773997" type="audio/mpeg"/>
+      <pubDate>Thu, 23 Jul 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>07:52</itunes:duration>
+      <itunes:episode>85</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Wednesday, July 22</title>
       <description>In world business, oil prices jumped four percent overnight after Secretary of State Rubio declared Iran "not serious" about peace talks, effectively closing the door on a near-term ceasefire…</description>
@@ -190,15 +199,6 @@
       <pubDate>Tue, 23 Jun 2026 06:00:00 -0400</pubDate>
       <itunes:duration>06:10</itunes:duration>
       <itunes:episode>55</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Monday, June 22</title>
-      <description>In world business, Treasury yields are climbing as markets return from the holiday weekend. The ten-year note rose more than three basis points to four point four eight three percent, with investors…</description>
-      <guid isPermaLink="false">2026-06-22</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-06-22.mp3" length="2595501" type="audio/mpeg"/>
-      <pubDate>Mon, 22 Jun 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>05:24</itunes:duration>
-      <itunes:episode>54</itunes:episode>
     </item>
   </channel>
 </rss>
