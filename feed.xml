@@ -13,13 +13,22 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Jul 2026 10:48:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 10:02:42 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Monday, July 27</title>
+      <description>In world business, President Trump launched a fresh round of tariffs Friday targeting sixty trading partners, including the European Union, China, and the United Kingdom. Analysts note this round is…</description>
+      <guid isPermaLink="false">2026-07-27</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-07-27.mp3" length="2827437" type="audio/mpeg"/>
+      <pubDate>Mon, 27 Jul 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>05:53</itunes:duration>
+      <itunes:episode>89</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Friday, July 24</title>
       <description>In world business, the US has imposed a new wave of tariffs on dozens of countries, citing forced labor concerns. The levies replace a temporary global duty that had been in place since the Supreme…</description>
@@ -172,33 +181,6 @@
       <pubDate>Mon, 29 Jun 2026 06:00:00 -0400</pubDate>
       <itunes:duration>05:20</itunes:duration>
       <itunes:episode>61</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Friday, June 26</title>
-      <description>In world business, the Federal Reserve remains a split signal. Chicago Fed President Goolsbee said Thursday that inflation is still too high, while New York Fed President Williams struck a more…</description>
-      <guid isPermaLink="false">2026-06-26</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-06-26.mp3" length="2940717" type="audio/mpeg"/>
-      <pubDate>Fri, 26 Jun 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>06:08</itunes:duration>
-      <itunes:episode>58</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Thursday, June 25</title>
-      <description>In world business, the big story is memory chips. Micron reported quarterly revenue of forty-one point four six billion dollars — more than quadruple the nine point three billion it posted a year…</description>
-      <guid isPermaLink="false">2026-06-25</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-06-25.mp3" length="3607149" type="audio/mpeg"/>
-      <pubDate>Thu, 25 Jun 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>07:31</itunes:duration>
-      <itunes:episode>57</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Wednesday, June 24</title>
-      <description>In world business, the White House says it will investigate potential price gouging by oil companies. Global crude prices have fallen since the US-Israel conflict with Iran, but remain elevated…</description>
-      <guid isPermaLink="false">2026-06-24</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-06-24.mp3" length="3010797" type="audio/mpeg"/>
-      <pubDate>Wed, 24 Jun 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>06:16</itunes:duration>
-      <itunes:episode>56</itunes:episode>
     </item>
   </channel>
 </rss>
