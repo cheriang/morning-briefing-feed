@@ -13,13 +13,22 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jul 2026 10:02:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 10:03:06 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Tuesday, July 28</title>
+      <description>In world business, oil prices are sliding this morning — Brent crude has dropped below ninety dollars a barrel after Iran signaled it would suspend attacks as long as the U.S. pause in hostilities…</description>
+      <guid isPermaLink="false">2026-07-28</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-07-28.mp3" length="3516909" type="audio/mpeg"/>
+      <pubDate>Tue, 28 Jul 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>07:20</itunes:duration>
+      <itunes:episode>90</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Monday, July 27</title>
       <description>In world business, President Trump launched a fresh round of tariffs Friday targeting sixty trading partners, including the European Union, China, and the United Kingdom. Analysts note this round is…</description>
