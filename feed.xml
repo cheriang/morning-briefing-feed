@@ -13,13 +13,22 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Jul 2026 10:02:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 10:02:00 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Thursday, July 30</title>
+      <description>In world business, the conflict with Iran is pushing energy markets sharply higher. Shell reported profits doubling as disruptions to oil and liquefied natural gas flows through the Strait of Hormuz…</description>
+      <guid isPermaLink="false">2026-07-30</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-07-30.mp3" length="3699501" type="audio/mpeg"/>
+      <pubDate>Thu, 30 Jul 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>07:42</itunes:duration>
+      <itunes:episode>92</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Wednesday, July 29</title>
       <description>In world business, SK Hynix shares dropped despite posting exponential profit and revenue growth — the numbers simply didn't match the AI-inflated expectations analysts had built in. It's a signal…</description>
@@ -190,15 +199,6 @@
       <pubDate>Tue, 30 Jun 2026 06:00:00 -0400</pubDate>
       <itunes:duration>06:38</itunes:duration>
       <itunes:episode>62</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Monday, June 29</title>
-      <description>In world business, the Bank for International Settlements — the central bank of central banks — is sounding an alarm about AI-driven market froth. Its annual report flags rich stock valuations…</description>
-      <guid isPermaLink="false">2026-06-29</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-06-29.mp3" length="2559789" type="audio/mpeg"/>
-      <pubDate>Mon, 29 Jun 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>05:20</itunes:duration>
-      <itunes:episode>61</itunes:episode>
     </item>
   </channel>
 </rss>
