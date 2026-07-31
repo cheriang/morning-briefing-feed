@@ -13,13 +13,22 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Jul 2026 10:02:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 10:01:54 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Friday, July 31</title>
+      <description>In world business, the big story out of earnings season is a sharp divergence between Apple and Amazon. Amazon surged twelve percent in premarket trading while Apple dropped seven percent, as…</description>
+      <guid isPermaLink="false">2026-07-31</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-07-31.mp3" length="3165357" type="audio/mpeg"/>
+      <pubDate>Fri, 31 Jul 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>06:36</itunes:duration>
+      <itunes:episode>93</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Thursday, July 30</title>
       <description>In world business, the conflict with Iran is pushing energy markets sharply higher. Shell reported profits doubling as disruptions to oil and liquefied natural gas flows through the Strait of Hormuz…</description>
@@ -190,15 +199,6 @@
       <pubDate>Wed, 01 Jul 2026 06:00:00 -0400</pubDate>
       <itunes:duration>07:25</itunes:duration>
       <itunes:episode>63</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Tuesday, June 30</title>
-      <description>In world business, the European Central Bank's inflation outlook is darkening. Bundesbank president Joachim Nagel told CNBC on the sidelines of an ECB conference in Portugal that inflation is likely…</description>
-      <guid isPermaLink="false">2026-06-30</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-06-30.mp3" length="3186477" type="audio/mpeg"/>
-      <pubDate>Tue, 30 Jun 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>06:38</itunes:duration>
-      <itunes:episode>62</itunes:episode>
     </item>
   </channel>
 </rss>
