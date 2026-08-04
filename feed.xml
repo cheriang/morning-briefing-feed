@@ -13,13 +13,22 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Aug 2026 10:01:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 10:02:05 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Tuesday, August 4</title>
+      <description>In world business, the US-Iran conflict is putting upward pressure on oil markets. President Trump has called the current round of negotiations Tehran's "last chance" to end the five-month war —…</description>
+      <guid isPermaLink="false">2026-08-04</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-08-04.mp3" length="3430509" type="audio/mpeg"/>
+      <pubDate>Tue, 04 Aug 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>07:09</itunes:duration>
+      <itunes:episode>97</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Monday, August 3</title>
       <description>In world business, oil prices are down more than five percent this morning after President Trump called off a planned strike on Iran over the weekend. Investors are unwinding geopolitical risk…</description>
