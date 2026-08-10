@@ -13,13 +13,22 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Aug 2026 11:13:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 10:01:23 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Monday, August 10</title>
+      <description>Futures are flat to start the week, with two forces keeping investors cautious. New demands from Iran have raised fresh doubts about the Strait of Hormuz reopening anytime soon, keeping geopolitical…</description>
+      <guid isPermaLink="false">2026-08-10</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-08-10.mp3" length="2106093" type="audio/mpeg"/>
+      <pubDate>Mon, 10 Aug 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>04:23</itunes:duration>
+      <itunes:episode>103</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Friday, August 7</title>
       <description>In world business, two trade moves are reshaping energy and chip markets simultaneously. The administration extended tariffs to polysilicon products — a key solar panel input — sending solar stocks…</description>
@@ -190,15 +199,6 @@
       <pubDate>Mon, 13 Jul 2026 06:00:00 -0400</pubDate>
       <itunes:duration>05:02</itunes:duration>
       <itunes:episode>75</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Wednesday, July 8</title>
-      <description>In world business, Samsung's earnings report triggered a sell-off in AI hardware stocks yesterday, while lagging tech names rebounded — a rotation worth watching if it signals a broader shift in…</description>
-      <guid isPermaLink="false">2026-07-08</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-07-08.mp3" length="2785965" type="audio/mpeg"/>
-      <pubDate>Wed, 08 Jul 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>05:48</itunes:duration>
-      <itunes:episode>70</itunes:episode>
     </item>
   </channel>
 </rss>
