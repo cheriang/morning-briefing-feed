@@ -13,13 +13,22 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Aug 2026 10:01:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 10:01:55 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Tuesday, August 11</title>
+      <description>In world business, Treasury yields are edging higher as oil prices climb and investors hold their breath ahead of July's inflation data — Iran tensions are keeping crude elevated and adding…</description>
+      <guid isPermaLink="false">2026-08-11</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-08-11.mp3" length="3508845" type="audio/mpeg"/>
+      <pubDate>Tue, 11 Aug 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>07:19</itunes:duration>
+      <itunes:episode>104</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Monday, August 10</title>
       <description>Futures are flat to start the week, with two forces keeping investors cautious. New demands from Iran have raised fresh doubts about the Strait of Hormuz reopening anytime soon, keeping geopolitical…</description>
