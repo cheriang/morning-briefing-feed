@@ -13,13 +13,22 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Aug 2026 10:01:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 10:01:56 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Wednesday, August 12</title>
+      <description>In world business, all eyes are on this morning's consumer price index report for July. The ten-year Treasury yield is holding near four point six eight two percent as markets wait for the number —…</description>
+      <guid isPermaLink="false">2026-08-12</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-08-12.mp3" length="3333165" type="audio/mpeg"/>
+      <pubDate>Wed, 12 Aug 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>06:57</itunes:duration>
+      <itunes:episode>105</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Tuesday, August 11</title>
       <description>In world business, Treasury yields are edging higher as oil prices climb and investors hold their breath ahead of July's inflation data — Iran tensions are keeping crude elevated and adding…</description>
