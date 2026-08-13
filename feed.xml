@@ -13,13 +13,22 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Aug 2026 10:01:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 10:01:42 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Thursday, August 13</title>
+      <description>In world business, oil futures pulled back after an overnight rise as investors weighed softening demand signals against ongoing Middle East tensions. Separately, Japan's wholesale inflation came in…</description>
+      <guid isPermaLink="false">2026-08-13</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-08-13.mp3" length="2931885" type="audio/mpeg"/>
+      <pubDate>Thu, 13 Aug 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>06:06</itunes:duration>
+      <itunes:episode>106</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Wednesday, August 12</title>
       <description>In world business, all eyes are on this morning's consumer price index report for July. The ten-year Treasury yield is holding near four point six eight two percent as markets wait for the number —…</description>
@@ -208,15 +217,6 @@
       <pubDate>Tue, 14 Jul 2026 06:00:00 -0400</pubDate>
       <itunes:duration>06:51</itunes:duration>
       <itunes:episode>76</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Monday, July 13</title>
-      <description>In world business, TSMC reported a sixty-eight percent surge in June revenue ahead of its second-quarter earnings release. That's a strong demand signal for advanced semiconductors — AI…</description>
-      <guid isPermaLink="false">2026-07-13</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-07-13.mp3" length="2417133" type="audio/mpeg"/>
-      <pubDate>Mon, 13 Jul 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>05:02</itunes:duration>
-      <itunes:episode>75</itunes:episode>
     </item>
   </channel>
 </rss>
