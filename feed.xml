@@ -13,13 +13,22 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Aug 2026 10:01:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 10:01:46 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Friday, August 14</title>
+      <description>In world business, the US has released a report identifying dozens of countries that helped China route goods through lower-tariff nations to avoid American levies — a significant escalation in the…</description>
+      <guid isPermaLink="false">2026-08-14</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-08-14.mp3" length="3251949" type="audio/mpeg"/>
+      <pubDate>Fri, 14 Aug 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>06:46</itunes:duration>
+      <itunes:episode>107</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Thursday, August 13</title>
       <description>In world business, oil futures pulled back after an overnight rise as investors weighed softening demand signals against ongoing Middle East tensions. Separately, Japan's wholesale inflation came in…</description>
@@ -208,15 +217,6 @@
       <pubDate>Wed, 15 Jul 2026 06:00:00 -0400</pubDate>
       <itunes:duration>07:23</itunes:duration>
       <itunes:episode>77</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Tuesday, July 14</title>
-      <description>In world business, three threads worth tracking. Oil jumped above eighty dollars a barrel after President Trump announced plans to impose shipping fees in the Strait of Hormuz — a move that…</description>
-      <guid isPermaLink="false">2026-07-14</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-07-14.mp3" length="3290925" type="audio/mpeg"/>
-      <pubDate>Tue, 14 Jul 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>06:51</itunes:duration>
-      <itunes:episode>76</itunes:episode>
     </item>
   </channel>
 </rss>
