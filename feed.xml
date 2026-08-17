@@ -13,13 +13,22 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Aug 2026 10:01:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 10:01:31 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Monday, August 17</title>
+      <description>In world business, Japan's second-quarter GDP came in at one point one percent annualized growth — well below the two percent economists had expected. The miss signals that trade headwinds and a…</description>
+      <guid isPermaLink="false">2026-08-17</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-08-17.mp3" length="2554989" type="audio/mpeg"/>
+      <pubDate>Mon, 17 Aug 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>05:19</itunes:duration>
+      <itunes:episode>110</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Friday, August 14</title>
       <description>In world business, the US has released a report identifying dozens of countries that helped China route goods through lower-tariff nations to avoid American levies — a significant escalation in the…</description>
@@ -190,33 +199,6 @@
       <pubDate>Mon, 20 Jul 2026 06:00:00 -0400</pubDate>
       <itunes:duration>05:26</itunes:duration>
       <itunes:episode>82</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Friday, July 17</title>
-      <description>In world business, oil prices are climbing this morning as tensions between the U.S. and Iran raise concerns about supply through the Strait of Hormuz — a chokepoint for roughly a fifth of global…</description>
-      <guid isPermaLink="false">2026-07-17</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-07-17.mp3" length="3125229" type="audio/mpeg"/>
-      <pubDate>Fri, 17 Jul 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>06:31</itunes:duration>
-      <itunes:episode>79</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Thursday, July 16</title>
-      <description>In world business, UnitedHealth beat second-quarter estimates and raised its full-year earnings outlook, crediting cost discipline — shrinking membership, exiting unprofitable contracts, and…</description>
-      <guid isPermaLink="false">2026-07-16</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-07-16.mp3" length="3164205" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>06:35</itunes:duration>
-      <itunes:episode>78</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Wednesday, July 15</title>
-      <description>In world business, China's economy is flashing warning signs — growth fell sharply in the latest quarter, missing targets as weak domestic demand and elevated oil prices tied to the Iran conflict…</description>
-      <guid isPermaLink="false">2026-07-15</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-07-15.mp3" length="3547245" type="audio/mpeg"/>
-      <pubDate>Wed, 15 Jul 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>07:23</itunes:duration>
-      <itunes:episode>77</itunes:episode>
     </item>
   </channel>
 </rss>
