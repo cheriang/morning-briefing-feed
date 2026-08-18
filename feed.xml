@@ -13,13 +13,22 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Aug 2026 10:09:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 10:02:18 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Tuesday, August 18</title>
+      <description>In world business, the US-Canada trade deadline is the story to watch. Canadian Prime Minister Carney is making what may be his final push to convince the Trump administration to hold off on fresh…</description>
+      <guid isPermaLink="false">2026-08-18</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-08-18.mp3" length="3729069" type="audio/mpeg"/>
+      <pubDate>Tue, 18 Aug 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>07:46</itunes:duration>
+      <itunes:episode>111</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Monday, August 17</title>
       <description>In world business, Japan's second-quarter GDP came in at one point one percent annualized growth — well below the two percent economists had expected. The miss signals that trade headwinds and a…</description>
