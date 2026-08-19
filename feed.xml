@@ -13,13 +13,22 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Aug 2026 10:02:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 10:01:42 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Wednesday, August 19</title>
+      <description>In world business, currency strategists are flagging a cluster of risks for the dollar — softer U.S. economic data, uncertainty around Fed policy, and growing concern about Treasury market dynamics…</description>
+      <guid isPermaLink="false">2026-08-19</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-08-19.mp3" length="3169005" type="audio/mpeg"/>
+      <pubDate>Wed, 19 Aug 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>06:36</itunes:duration>
+      <itunes:episode>112</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Tuesday, August 18</title>
       <description>In world business, the US-Canada trade deadline is the story to watch. Canadian Prime Minister Carney is making what may be his final push to convince the Trump administration to hold off on fresh…</description>
