@@ -13,7 +13,7 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Aug 2026 10:01:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 10:10:08 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
@@ -22,11 +22,11 @@
     <itunes:type>episodic</itunes:type>
     <item>
       <title>Briefing — Wednesday, August 19</title>
-      <description>In world business, currency strategists are flagging a cluster of risks for the dollar — softer U.S. economic data, uncertainty around Fed policy, and growing concern about Treasury market dynamics…</description>
+      <description>In world business, the macro picture on the dollar is worth noting. Currency strategists are flagging a combination of Treasury risk, softer U.S. economic data, and uncertainty around Fed policy as…</description>
       <guid isPermaLink="false">2026-08-19</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-08-19.mp3" length="3169005" type="audio/mpeg"/>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-08-19.mp3" length="3051309" type="audio/mpeg"/>
       <pubDate>Wed, 19 Aug 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>06:36</itunes:duration>
+      <itunes:duration>06:21</itunes:duration>
       <itunes:episode>112</itunes:episode>
     </item>
     <item>
