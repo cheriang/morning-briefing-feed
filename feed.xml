@@ -13,13 +13,22 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Aug 2026 10:10:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 10:01:33 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Thursday, August 20</title>
+      <description>In world business, Canada and the US say they're finalizing a trade deal, with Prime Minister Carney citing "significant progress" ahead of a new weekend tariff deadline. Watch that closely — a deal…</description>
+      <guid isPermaLink="false">2026-08-20</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-08-20.mp3" length="2586669" type="audio/mpeg"/>
+      <pubDate>Thu, 20 Aug 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>05:23</itunes:duration>
+      <itunes:episode>113</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Wednesday, August 19</title>
       <description>In world business, the macro picture on the dollar is worth noting. Currency strategists are flagging a combination of Treasury risk, softer U.S. economic data, and uncertainty around Fed policy as…</description>
@@ -208,15 +217,6 @@
       <pubDate>Tue, 21 Jul 2026 06:00:00 -0400</pubDate>
       <itunes:duration>07:31</itunes:duration>
       <itunes:episode>83</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Monday, July 20</title>
-      <description>In world business, the Iran conflict is rippling through aviation and energy markets. Ryanair reported a drop in profits, citing both reduced passenger demand and higher fuel costs as Brent crude…</description>
-      <guid isPermaLink="false">2026-07-20</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-07-20.mp3" length="2606829" type="audio/mpeg"/>
-      <pubDate>Mon, 20 Jul 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>05:26</itunes:duration>
-      <itunes:episode>82</itunes:episode>
     </item>
   </channel>
 </rss>
