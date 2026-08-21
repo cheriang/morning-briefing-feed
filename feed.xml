@@ -13,13 +13,22 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Aug 2026 10:01:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 10:01:52 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Friday, August 21</title>
+      <description>In world business, oil prices are on track for a second straight weekly gain as hopes for a quick reopening of the Strait of Hormuz have essentially collapsed. The U.S. is signaling it will increase…</description>
+      <guid isPermaLink="false">2026-08-21</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-08-21.mp3" length="3315885" type="audio/mpeg"/>
+      <pubDate>Fri, 21 Aug 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>06:54</itunes:duration>
+      <itunes:episode>114</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Thursday, August 20</title>
       <description>In world business, Canada and the US say they're finalizing a trade deal, with Prime Minister Carney citing "significant progress" ahead of a new weekend tariff deadline. Watch that closely — a deal…</description>
@@ -208,15 +217,6 @@
       <pubDate>Wed, 22 Jul 2026 06:00:00 -0400</pubDate>
       <itunes:duration>06:42</itunes:duration>
       <itunes:episode>84</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Tuesday, July 21</title>
-      <description>In world business, the dominant story is a major escalation in US-Canada trade relations. The White House announced fifty percent tariffs on most Canadian goods — including products previously…</description>
-      <guid isPermaLink="false">2026-07-21</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-07-21.mp3" length="3605037" type="audio/mpeg"/>
-      <pubDate>Tue, 21 Jul 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>07:31</itunes:duration>
-      <itunes:episode>83</itunes:episode>
     </item>
   </channel>
 </rss>
