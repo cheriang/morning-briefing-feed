@@ -13,13 +13,22 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Aug 2026 10:01:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 10:01:37 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Monday, August 24</title>
+      <description>In world business, the dominant story is the US-Canada trade relationship, which has deteriorated into an open trade war. Talks collapsed Friday in Washington, and new tariffs are now in force on a…</description>
+      <guid isPermaLink="false">2026-08-24</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-08-24.mp3" length="2704749" type="audio/mpeg"/>
+      <pubDate>Mon, 24 Aug 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>05:38</itunes:duration>
+      <itunes:episode>117</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Friday, August 21</title>
       <description>In world business, oil prices are on track for a second straight weekly gain as hopes for a quick reopening of the Strait of Hormuz have essentially collapsed. The U.S. is signaling it will increase…</description>
@@ -190,33 +199,6 @@
       <pubDate>Mon, 27 Jul 2026 06:00:00 -0400</pubDate>
       <itunes:duration>05:53</itunes:duration>
       <itunes:episode>89</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Friday, July 24</title>
-      <description>In world business, the US has imposed a new wave of tariffs on dozens of countries, citing forced labor concerns. The levies replace a temporary global duty that had been in place since the Supreme…</description>
-      <guid isPermaLink="false">2026-07-24</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-07-24.mp3" length="3697389" type="audio/mpeg"/>
-      <pubDate>Fri, 24 Jul 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>07:42</itunes:duration>
-      <itunes:episode>86</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Thursday, July 23</title>
-      <description>In world business, oil is the story. U.S. crude has topped ninety dollars a barrel and Brent is above ninety-eight after Houthi attacks struck tankers in the Red Sea, including Saudi vessels near…</description>
-      <guid isPermaLink="false">2026-07-23</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-07-23.mp3" length="3773997" type="audio/mpeg"/>
-      <pubDate>Thu, 23 Jul 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>07:52</itunes:duration>
-      <itunes:episode>85</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Wednesday, July 22</title>
-      <description>In world business, oil prices jumped four percent overnight after Secretary of State Rubio declared Iran "not serious" about peace talks, effectively closing the door on a near-term ceasefire…</description>
-      <guid isPermaLink="false">2026-07-22</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-07-22.mp3" length="3218733" type="audio/mpeg"/>
-      <pubDate>Wed, 22 Jul 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>06:42</itunes:duration>
-      <itunes:episode>84</itunes:episode>
     </item>
   </channel>
 </rss>
