@@ -13,13 +13,22 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Aug 2026 10:01:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 10:01:53 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Wednesday, August 26</title>
+      <description>In world business, Canada has announced retaliatory tariffs on roughly twenty billion dollars' worth of American goods — a dollar-for-dollar response to levies imposed by the Trump administration…</description>
+      <guid isPermaLink="false">2026-08-26</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-08-26.mp3" length="3311085" type="audio/mpeg"/>
+      <pubDate>Wed, 26 Aug 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>06:54</itunes:duration>
+      <itunes:episode>119</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Tuesday, August 25</title>
       <description>In world business, the US-Canada trade war took a significant step up. President Trump announced a fifty percent tariff on all Canadian cars, trucks, auto parts, and steel, set to take effect…</description>
