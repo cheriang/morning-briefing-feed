@@ -13,13 +13,22 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Aug 2026 10:01:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 10:02:04 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Thursday, August 27</title>
+      <description>In world business, Nvidia shares jumped roughly seven percent after the company's second-quarter earnings and forward guidance confirmed that AI infrastructure spending remains on an aggressive…</description>
+      <guid isPermaLink="false">2026-08-27</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-08-27.mp3" length="3725037" type="audio/mpeg"/>
+      <pubDate>Thu, 27 Aug 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>07:46</itunes:duration>
+      <itunes:episode>120</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Wednesday, August 26</title>
       <description>In world business, Canada has announced retaliatory tariffs on roughly twenty billion dollars' worth of American goods — a dollar-for-dollar response to levies imposed by the Trump administration…</description>
@@ -208,15 +217,6 @@
       <pubDate>Tue, 28 Jul 2026 06:00:00 -0400</pubDate>
       <itunes:duration>07:20</itunes:duration>
       <itunes:episode>90</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Monday, July 27</title>
-      <description>In world business, President Trump launched a fresh round of tariffs Friday targeting sixty trading partners, including the European Union, China, and the United Kingdom. Analysts note this round is…</description>
-      <guid isPermaLink="false">2026-07-27</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-07-27.mp3" length="2827437" type="audio/mpeg"/>
-      <pubDate>Mon, 27 Jul 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>05:53</itunes:duration>
-      <itunes:episode>89</itunes:episode>
     </item>
   </channel>
 </rss>
