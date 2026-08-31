@@ -13,13 +13,22 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Aug 2026 10:02:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 10:01:28 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Monday, August 31</title>
+      <description>In world business, the big macro signal this weekend came out of Jackson Hole. Fed Chair Kevin Warsh delivered a hawkish speech that pushed rate-hike expectations higher heading into September's…</description>
+      <guid isPermaLink="false">2026-08-31</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-08-31.mp3" length="2476077" type="audio/mpeg"/>
+      <pubDate>Mon, 31 Aug 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>05:09</itunes:duration>
+      <itunes:episode>124</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Friday, August 28</title>
       <description>In world business, two stories are moving together. Nvidia added more than four hundred billion dollars in market value after its second-quarter earnings blew past expectations — revenue guidance…</description>
@@ -190,33 +199,6 @@
       <pubDate>Mon, 03 Aug 2026 06:00:00 -0400</pubDate>
       <itunes:duration>05:49</itunes:duration>
       <itunes:episode>96</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Friday, July 31</title>
-      <description>In world business, the big story out of earnings season is a sharp divergence between Apple and Amazon. Amazon surged twelve percent in premarket trading while Apple dropped seven percent, as…</description>
-      <guid isPermaLink="false">2026-07-31</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-07-31.mp3" length="3165357" type="audio/mpeg"/>
-      <pubDate>Fri, 31 Jul 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>06:36</itunes:duration>
-      <itunes:episode>93</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Thursday, July 30</title>
-      <description>In world business, the conflict with Iran is pushing energy markets sharply higher. Shell reported profits doubling as disruptions to oil and liquefied natural gas flows through the Strait of Hormuz…</description>
-      <guid isPermaLink="false">2026-07-30</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-07-30.mp3" length="3699501" type="audio/mpeg"/>
-      <pubDate>Thu, 30 Jul 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>07:42</itunes:duration>
-      <itunes:episode>92</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Wednesday, July 29</title>
-      <description>In world business, SK Hynix shares dropped despite posting exponential profit and revenue growth — the numbers simply didn't match the AI-inflated expectations analysts had built in. It's a signal…</description>
-      <guid isPermaLink="false">2026-07-29</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-07-29.mp3" length="3277101" type="audio/mpeg"/>
-      <pubDate>Wed, 29 Jul 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>06:50</itunes:duration>
-      <itunes:episode>91</itunes:episode>
     </item>
   </channel>
 </rss>
