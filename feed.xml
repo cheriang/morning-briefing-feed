@@ -13,13 +13,22 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Aug 2026 10:01:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 10:01:52 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Tuesday, September 1</title>
+      <description>The dominant macro story is the U.S.-Iran confrontation. Iran struck two American bases in Jordan Monday in retaliation for a prior U.S. attack on Larak Island. Oil prices are rising, and bond…</description>
+      <guid isPermaLink="false">2026-09-01</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-09-01.mp3" length="3128109" type="audio/mpeg"/>
+      <pubDate>Tue, 01 Sep 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>06:31</itunes:duration>
+      <itunes:episode>125</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Monday, August 31</title>
       <description>In world business, the big macro signal this weekend came out of Jackson Hole. Fed Chair Kevin Warsh delivered a hawkish speech that pushed rate-hike expectations higher heading into September's…</description>
