@@ -13,13 +13,22 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Sep 2026 10:01:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 10:01:59 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Wednesday, September 2</title>
+      <description>In world business, Treasury yields are climbing again — the ten-year hit its highest level since November twenty twenty-three as a global bond sell-off continues. Higher oil prices are feeding…</description>
+      <guid isPermaLink="false">2026-09-02</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-09-02.mp3" length="3174957" type="audio/mpeg"/>
+      <pubDate>Wed, 02 Sep 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>06:37</itunes:duration>
+      <itunes:episode>126</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Tuesday, September 1</title>
       <description>The dominant macro story is the U.S.-Iran confrontation. Iran struck two American bases in Jordan Monday in retaliation for a prior U.S. attack on Larak Island. Oil prices are rising, and bond…</description>
