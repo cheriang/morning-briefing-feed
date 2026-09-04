@@ -13,13 +13,22 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Sep 2026 10:01:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 10:01:53 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Friday, September 4</title>
+      <description>In world business, diesel prices have hit an all-time high in the United States, driven by the surge in wholesale oil prices since the Iran conflict began in late February. That's a direct cost…</description>
+      <guid isPermaLink="false">2026-09-04</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-09-04.mp3" length="3366381" type="audio/mpeg"/>
+      <pubDate>Fri, 04 Sep 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>07:01</itunes:duration>
+      <itunes:episode>128</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Thursday, September 3</title>
       <description>In world business, the big macro signal is a global bond sell-off driven by heavy government debt issuance, an oil-price shock reigniting inflation fears, and expectations that rates stay higher for…</description>
@@ -208,15 +217,6 @@
       <pubDate>Wed, 05 Aug 2026 06:00:00 -0400</pubDate>
       <itunes:duration>06:32</itunes:duration>
       <itunes:episode>98</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Tuesday, August 4</title>
-      <description>In world business, the US-Iran conflict is putting upward pressure on oil markets. President Trump has called the current round of negotiations Tehran's "last chance" to end the five-month war —…</description>
-      <guid isPermaLink="false">2026-08-04</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-08-04.mp3" length="3430509" type="audio/mpeg"/>
-      <pubDate>Tue, 04 Aug 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>07:09</itunes:duration>
-      <itunes:episode>97</itunes:episode>
     </item>
   </channel>
 </rss>
