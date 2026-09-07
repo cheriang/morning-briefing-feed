@@ -13,13 +13,22 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Sep 2026 10:01:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 10:01:18 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Monday, September 7</title>
+      <description>In world business, Jaguar Land Rover is cutting four thousand jobs as part of a two-point-three-billion-dollar cost-saving overhaul. The company is under pressure from Chinese competition, US…</description>
+      <guid isPermaLink="false">2026-09-07</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-09-07.mp3" length="2286189" type="audio/mpeg"/>
+      <pubDate>Mon, 07 Sep 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>04:46</itunes:duration>
+      <itunes:episode>131</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Friday, September 4</title>
       <description>In world business, diesel prices have hit an all-time high in the United States, driven by the surge in wholesale oil prices since the Iran conflict began in late February. That's a direct cost…</description>
@@ -199,24 +208,6 @@
       <pubDate>Mon, 10 Aug 2026 06:00:00 -0400</pubDate>
       <itunes:duration>04:23</itunes:duration>
       <itunes:episode>103</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Friday, August 7</title>
-      <description>In world business, two trade moves are reshaping energy and chip markets simultaneously. The administration extended tariffs to polysilicon products — a key solar panel input — sending solar stocks…</description>
-      <guid isPermaLink="false">2026-08-07</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-08-07.mp3" length="3801261" type="audio/mpeg"/>
-      <pubDate>Fri, 07 Aug 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>07:55</itunes:duration>
-      <itunes:episode>100</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Wednesday, August 5</title>
-      <description>In world business, Houthi forces in Yemen claimed a strike on a Saudi oil tanker in the Red Sea Wednesday, pushing crude prices higher. The Red Sea corridor has been a recurring pressure point for…</description>
-      <guid isPermaLink="false">2026-08-05</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-08-05.mp3" length="3135213" type="audio/mpeg"/>
-      <pubDate>Wed, 05 Aug 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>06:32</itunes:duration>
-      <itunes:episode>98</itunes:episode>
     </item>
   </channel>
 </rss>
