@@ -13,13 +13,22 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Sep 2026 10:01:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 10:01:55 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Tuesday, September 8</title>
+      <description>In world business, two macro pressures are worth tracking simultaneously. Brent crude is approaching one hundred dollars a barrel after strikes on Saudi energy infrastructure over the weekend, tied…</description>
+      <guid isPermaLink="false">2026-09-08</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-09-08.mp3" length="3446829" type="audio/mpeg"/>
+      <pubDate>Tue, 08 Sep 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>07:11</itunes:duration>
+      <itunes:episode>132</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Monday, September 7</title>
       <description>In world business, Jaguar Land Rover is cutting four thousand jobs as part of a two-point-three-billion-dollar cost-saving overhaul. The company is under pressure from Chinese competition, US…</description>
