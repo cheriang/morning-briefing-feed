@@ -13,13 +13,22 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Sep 2026 10:01:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 10:01:56 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Wednesday, September 9</title>
+      <description>In world business, the US-Iran conflict around the Strait of Hormuz escalated overnight — Iran claims it struck American vessels and oil tankers in the strait in retaliation for US strikes. That's a…</description>
+      <guid isPermaLink="false">2026-09-09</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-09-09.mp3" length="3434349" type="audio/mpeg"/>
+      <pubDate>Wed, 09 Sep 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>07:09</itunes:duration>
+      <itunes:episode>133</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Tuesday, September 8</title>
       <description>In world business, two macro pressures are worth tracking simultaneously. Brent crude is approaching one hundred dollars a barrel after strikes on Saudi energy infrastructure over the weekend, tied…</description>
