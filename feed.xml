@@ -13,13 +13,22 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Sep 2026 10:01:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 10:02:01 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Thursday, September 10</title>
+      <description>In world business, the dominant story is oil. Brent crude is holding above one hundred dollars a barrel as Middle East tensions from the U.S.-Iran conflict continue to threaten supply. Ryanair's CEO…</description>
+      <guid isPermaLink="false">2026-09-10</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-09-10.mp3" length="3357933" type="audio/mpeg"/>
+      <pubDate>Thu, 10 Sep 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>07:00</itunes:duration>
+      <itunes:episode>134</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Wednesday, September 9</title>
       <description>In world business, the US-Iran conflict around the Strait of Hormuz escalated overnight — Iran claims it struck American vessels and oil tankers in the strait in retaliation for US strikes. That's a…</description>
@@ -217,15 +226,6 @@
       <pubDate>Tue, 11 Aug 2026 06:00:00 -0400</pubDate>
       <itunes:duration>07:19</itunes:duration>
       <itunes:episode>104</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Monday, August 10</title>
-      <description>Futures are flat to start the week, with two forces keeping investors cautious. New demands from Iran have raised fresh doubts about the Strait of Hormuz reopening anytime soon, keeping geopolitical…</description>
-      <guid isPermaLink="false">2026-08-10</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-08-10.mp3" length="2106093" type="audio/mpeg"/>
-      <pubDate>Mon, 10 Aug 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>04:23</itunes:duration>
-      <itunes:episode>103</itunes:episode>
     </item>
   </channel>
 </rss>
