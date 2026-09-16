@@ -13,13 +13,22 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Sep 2026 10:02:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 10:02:02 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Wednesday, September 16</title>
+      <description>In world business, UK inflation jumped to three point one percent in August, driven by rising petrol and diesel prices tied to Middle East supply disruptions. The reading lands a day before the Bank…</description>
+      <guid isPermaLink="false">2026-09-16</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-09-16.mp3" length="3324141" type="audio/mpeg"/>
+      <pubDate>Wed, 16 Sep 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>06:55</itunes:duration>
+      <itunes:episode>140</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Tuesday, September 15</title>
       <description>In world business, the ten-year Treasury yield has climbed to its highest level since 2007 as investors price in a rate hike at this week's Fed meeting. Both Morgan Stanley and Goldman Sachs made…</description>
