@@ -13,13 +13,22 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Sep 2026 10:02:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 10:06:00 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Thursday, September 17</title>
+      <description>In world business, the Bank of England is expected to hold interest rates steady today even as U.K. inflation climbed to three point one percent, with energy costs keeping upward pressure on prices…</description>
+      <guid isPermaLink="false">2026-09-17</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-09-17.mp3" length="2963949" type="audio/mpeg"/>
+      <pubDate>Thu, 17 Sep 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>06:10</itunes:duration>
+      <itunes:episode>141</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Wednesday, September 16</title>
       <description>In world business, UK inflation jumped to three point one percent in August, driven by rising petrol and diesel prices tied to Middle East supply disruptions. The reading lands a day before the Bank…</description>
@@ -208,15 +217,6 @@
       <pubDate>Tue, 18 Aug 2026 06:00:00 -0400</pubDate>
       <itunes:duration>07:46</itunes:duration>
       <itunes:episode>111</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Monday, August 17</title>
-      <description>In world business, Japan's second-quarter GDP came in at one point one percent annualized growth — well below the two percent economists had expected. The miss signals that trade headwinds and a…</description>
-      <guid isPermaLink="false">2026-08-17</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-08-17.mp3" length="2473389" type="audio/mpeg"/>
-      <pubDate>Mon, 17 Aug 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>05:09</itunes:duration>
-      <itunes:episode>110</itunes:episode>
     </item>
   </channel>
 </rss>
