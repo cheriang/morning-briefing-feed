@@ -13,13 +13,22 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Sep 2026 10:06:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 10:02:09 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Friday, September 18</title>
+      <description>In world business, the Bank of Japan raised its benchmark interest rate to a thirty-one-year high, citing persistent inflation driven by high energy prices. The decision passed seven to two, with…</description>
+      <guid isPermaLink="false">2026-09-18</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-09-18.mp3" length="3508077" type="audio/mpeg"/>
+      <pubDate>Fri, 18 Sep 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>07:18</itunes:duration>
+      <itunes:episode>142</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Thursday, September 17</title>
       <description>In world business, the Bank of England is expected to hold interest rates steady today even as U.K. inflation climbed to three point one percent, with energy costs keeping upward pressure on prices…</description>
@@ -208,15 +217,6 @@
       <pubDate>Wed, 19 Aug 2026 06:00:00 -0400</pubDate>
       <itunes:duration>06:21</itunes:duration>
       <itunes:episode>112</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Tuesday, August 18</title>
-      <description>In world business, the US-Canada trade deadline is the story to watch. Canadian Prime Minister Carney is making what may be his final push to convince the Trump administration to hold off on fresh…</description>
-      <guid isPermaLink="false">2026-08-18</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-08-18.mp3" length="3729069" type="audio/mpeg"/>
-      <pubDate>Tue, 18 Aug 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>07:46</itunes:duration>
-      <itunes:episode>111</itunes:episode>
     </item>
   </channel>
 </rss>
