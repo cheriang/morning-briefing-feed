@@ -13,13 +13,22 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Sep 2026 10:01:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 10:02:04 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Thursday, September 24</title>
+      <description>In world business, two rate signals worth tracking. New York Fed President John Williams said at a London policy forum this morning that it's "reasonable" to expect another rate hike before year-end…</description>
+      <guid isPermaLink="false">2026-09-24</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-09-24.mp3" length="3695853" type="audio/mpeg"/>
+      <pubDate>Thu, 24 Sep 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>07:42</itunes:duration>
+      <itunes:episode>148</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Tuesday, September 22</title>
       <description>In world business, two macro threads are running simultaneously. Oil prices pulled back from early gains as UN General Assembly meetings raised hopes for a diplomatic resolution to the U.S.-Iran…</description>
@@ -199,15 +208,6 @@
       <pubDate>Tue, 25 Aug 2026 06:00:00 -0400</pubDate>
       <itunes:duration>06:12</itunes:duration>
       <itunes:episode>118</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Monday, August 24</title>
-      <description>In world business, the dominant story is the US-Canada trade relationship, which has deteriorated into an open trade war. Talks collapsed Friday in Washington, and new tariffs are now in force on a…</description>
-      <guid isPermaLink="false">2026-08-24</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-08-24.mp3" length="2704749" type="audio/mpeg"/>
-      <pubDate>Mon, 24 Aug 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>05:38</itunes:duration>
-      <itunes:episode>117</itunes:episode>
     </item>
   </channel>
 </rss>
