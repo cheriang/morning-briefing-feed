@@ -13,7 +13,7 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Sep 2026 10:01:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 11:02:00 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
@@ -21,193 +21,49 @@
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
     <item>
-      <title>Briefing — Friday, September 25</title>
-      <description>In world business, Treasury yields are the story this week. Surging long-term rates are creating a compounding problem for Fed Chair Kevin Warsh — markets expect a firm hand on inflation, but…</description>
-      <guid isPermaLink="false">2026-09-25</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-09-25.mp3" length="3268461" type="audio/mpeg"/>
-      <pubDate>Fri, 25 Sep 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>06:49</itunes:duration>
-      <itunes:episode>149</itunes:episode>
+      <title>Briefing — Thursday, November 12</title>
+      <description>In world business, Treasury yields are edging higher this morning as bond markets reopen after Veterans Day. Investors are positioning ahead of fresh inflation and housing data due later this week —…</description>
+      <guid isPermaLink="false">2026-11-12</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-11-12.mp3" length="3655533" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Nov 2026 06:00:00 -0500</pubDate>
+      <itunes:duration>07:37</itunes:duration>
+      <itunes:episode>197</itunes:episode>
     </item>
     <item>
-      <title>Briefing — Thursday, September 24</title>
-      <description>In world business, two rate signals worth tracking. New York Fed President John Williams said at a London policy forum this morning that it's "reasonable" to expect another rate hike before year-end…</description>
-      <guid isPermaLink="false">2026-09-24</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-09-24.mp3" length="3695853" type="audio/mpeg"/>
-      <pubDate>Thu, 24 Sep 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>07:42</itunes:duration>
-      <itunes:episode>148</itunes:episode>
+      <title>Briefing — Monday, November 2</title>
+      <description>With midterm elections tomorrow, markets are already pricing in potential shifts. A Democratic gain in Congress could tighten oversight on defense contractors, healthcare companies, crypto…</description>
+      <guid isPermaLink="false">2026-11-02</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-11-02.mp3" length="2549229" type="audio/mpeg"/>
+      <pubDate>Mon, 02 Nov 2026 06:00:00 -0500</pubDate>
+      <itunes:duration>05:19</itunes:duration>
+      <itunes:episode>187</itunes:episode>
     </item>
     <item>
-      <title>Briefing — Tuesday, September 22</title>
-      <description>In world business, two macro threads are running simultaneously. Oil prices pulled back from early gains as UN General Assembly meetings raised hopes for a diplomatic resolution to the U.S.-Iran…</description>
-      <guid isPermaLink="false">2026-09-22</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-09-22.mp3" length="3321261" type="audio/mpeg"/>
-      <pubDate>Tue, 22 Sep 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>06:55</itunes:duration>
-      <itunes:episode>146</itunes:episode>
+      <title>Briefing — Friday, October 30</title>
+      <description>In world business, big tech earnings are rattling markets this morning. Amazon is down seven percent and Intel is plunging twenty-five percent in premarket trading as investors question whether the…</description>
+      <guid isPermaLink="false">2026-10-30</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-10-30.mp3" length="3758637" type="audio/mpeg"/>
+      <pubDate>Fri, 30 Oct 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>07:50</itunes:duration>
+      <itunes:episode>184</itunes:episode>
     </item>
     <item>
-      <title>Briefing — Monday, September 21</title>
-      <description>In world business, the triple squeeze is tightening. Tariffs, elevated fuel costs, and higher interest rates are hitting American manufacturers, auto suppliers, retailers, and transportation…</description>
-      <guid isPermaLink="false">2026-09-21</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-09-21.mp3" length="2694189" type="audio/mpeg"/>
-      <pubDate>Mon, 21 Sep 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>05:37</itunes:duration>
-      <itunes:episode>145</itunes:episode>
+      <title>Briefing — Thursday, October 29</title>
+      <description>In world business, two central bank stories worth tracking. European Central Bank President Christine Lagarde has announced she will stand down in February, opening a leadership transition at one of…</description>
+      <guid isPermaLink="false">2026-10-29</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-10-29.mp3" length="3538989" type="audio/mpeg"/>
+      <pubDate>Thu, 29 Oct 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>07:22</itunes:duration>
+      <itunes:episode>183</itunes:episode>
     </item>
     <item>
-      <title>Briefing — Friday, September 18</title>
-      <description>In world business, the Bank of Japan raised its benchmark interest rate to a thirty-one-year high, citing persistent inflation driven by high energy prices. The decision passed seven to two, with…</description>
-      <guid isPermaLink="false">2026-09-18</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-09-18.mp3" length="3508077" type="audio/mpeg"/>
-      <pubDate>Fri, 18 Sep 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>07:18</itunes:duration>
-      <itunes:episode>142</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Thursday, September 17</title>
-      <description>In world business, the Bank of England is expected to hold interest rates steady today even as U.K. inflation climbed to three point one percent, with energy costs keeping upward pressure on prices…</description>
-      <guid isPermaLink="false">2026-09-17</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-09-17.mp3" length="2963949" type="audio/mpeg"/>
-      <pubDate>Thu, 17 Sep 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>06:10</itunes:duration>
-      <itunes:episode>141</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Wednesday, September 16</title>
-      <description>In world business, UK inflation jumped to three point one percent in August, driven by rising petrol and diesel prices tied to Middle East supply disruptions. The reading lands a day before the Bank…</description>
-      <guid isPermaLink="false">2026-09-16</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-09-16.mp3" length="3324141" type="audio/mpeg"/>
-      <pubDate>Wed, 16 Sep 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>06:55</itunes:duration>
-      <itunes:episode>140</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Tuesday, September 15</title>
-      <description>In world business, the ten-year Treasury yield has climbed to its highest level since 2007 as investors price in a rate hike at this week's Fed meeting. Both Morgan Stanley and Goldman Sachs made…</description>
-      <guid isPermaLink="false">2026-09-15</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-09-15.mp3" length="3417453" type="audio/mpeg"/>
-      <pubDate>Tue, 15 Sep 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>07:07</itunes:duration>
-      <itunes:episode>139</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Friday, September 11</title>
-      <description>Global bond markets are under pressure heading into the weekend. Oil jumped six percent to above one hundred seven dollars a barrel Thursday after Houthi advances along Yemen's Red Sea coast raised…</description>
-      <guid isPermaLink="false">2026-09-11</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-09-11.mp3" length="3067053" type="audio/mpeg"/>
-      <pubDate>Fri, 11 Sep 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>06:23</itunes:duration>
-      <itunes:episode>135</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Thursday, September 10</title>
-      <description>In world business, the dominant story is oil. Brent crude is holding above one hundred dollars a barrel as Middle East tensions from the U.S.-Iran conflict continue to threaten supply. Ryanair's CEO…</description>
-      <guid isPermaLink="false">2026-09-10</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-09-10.mp3" length="3357933" type="audio/mpeg"/>
-      <pubDate>Thu, 10 Sep 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>07:00</itunes:duration>
-      <itunes:episode>134</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Wednesday, September 9</title>
-      <description>In world business, the US-Iran conflict around the Strait of Hormuz escalated overnight — Iran claims it struck American vessels and oil tankers in the strait in retaliation for US strikes. That's a…</description>
-      <guid isPermaLink="false">2026-09-09</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-09-09.mp3" length="3434349" type="audio/mpeg"/>
-      <pubDate>Wed, 09 Sep 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>07:09</itunes:duration>
-      <itunes:episode>133</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Tuesday, September 8</title>
-      <description>In world business, two macro pressures are worth tracking simultaneously. Brent crude is approaching one hundred dollars a barrel after strikes on Saudi energy infrastructure over the weekend, tied…</description>
-      <guid isPermaLink="false">2026-09-08</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-09-08.mp3" length="3446829" type="audio/mpeg"/>
-      <pubDate>Tue, 08 Sep 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>07:11</itunes:duration>
-      <itunes:episode>132</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Monday, September 7</title>
-      <description>In world business, Jaguar Land Rover is cutting four thousand jobs as part of a two-point-three-billion-dollar cost-saving overhaul. The company is under pressure from Chinese competition, US…</description>
-      <guid isPermaLink="false">2026-09-07</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-09-07.mp3" length="2286189" type="audio/mpeg"/>
-      <pubDate>Mon, 07 Sep 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>04:46</itunes:duration>
-      <itunes:episode>131</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Friday, September 4</title>
-      <description>In world business, diesel prices have hit an all-time high in the United States, driven by the surge in wholesale oil prices since the Iran conflict began in late February. That's a direct cost…</description>
-      <guid isPermaLink="false">2026-09-04</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-09-04.mp3" length="3366381" type="audio/mpeg"/>
-      <pubDate>Fri, 04 Sep 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>07:01</itunes:duration>
-      <itunes:episode>128</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Thursday, September 3</title>
-      <description>In world business, the big macro signal is a global bond sell-off driven by heavy government debt issuance, an oil-price shock reigniting inflation fears, and expectations that rates stay higher for…</description>
-      <guid isPermaLink="false">2026-09-03</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-09-03.mp3" length="3049773" type="audio/mpeg"/>
-      <pubDate>Thu, 03 Sep 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>06:21</itunes:duration>
-      <itunes:episode>127</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Wednesday, September 2</title>
-      <description>In world business, Treasury yields are climbing again — the ten-year hit its highest level since November twenty twenty-three as a global bond sell-off continues. Higher oil prices are feeding…</description>
-      <guid isPermaLink="false">2026-09-02</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-09-02.mp3" length="3174957" type="audio/mpeg"/>
-      <pubDate>Wed, 02 Sep 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>06:37</itunes:duration>
-      <itunes:episode>126</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Tuesday, September 1</title>
-      <description>The dominant macro story is the U.S.-Iran confrontation. Iran struck two American bases in Jordan Monday in retaliation for a prior U.S. attack on Larak Island. Oil prices are rising, and bond…</description>
-      <guid isPermaLink="false">2026-09-01</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-09-01.mp3" length="3128109" type="audio/mpeg"/>
-      <pubDate>Tue, 01 Sep 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>06:31</itunes:duration>
-      <itunes:episode>125</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Monday, August 31</title>
-      <description>In world business, the big macro signal this weekend came out of Jackson Hole. Fed Chair Kevin Warsh delivered a hawkish speech that pushed rate-hike expectations higher heading into September's…</description>
-      <guid isPermaLink="false">2026-08-31</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-08-31.mp3" length="2476077" type="audio/mpeg"/>
-      <pubDate>Mon, 31 Aug 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>05:09</itunes:duration>
-      <itunes:episode>124</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Friday, August 28</title>
-      <description>In world business, two stories are moving together. Nvidia added more than four hundred billion dollars in market value after its second-quarter earnings blew past expectations — revenue guidance…</description>
-      <guid isPermaLink="false">2026-08-28</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-08-28.mp3" length="3439341" type="audio/mpeg"/>
-      <pubDate>Fri, 28 Aug 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>07:10</itunes:duration>
-      <itunes:episode>121</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Thursday, August 27</title>
-      <description>In world business, Nvidia shares jumped roughly seven percent after the company's second-quarter earnings and forward guidance confirmed that AI infrastructure spending remains on an aggressive…</description>
-      <guid isPermaLink="false">2026-08-27</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-08-27.mp3" length="3725037" type="audio/mpeg"/>
-      <pubDate>Thu, 27 Aug 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>07:46</itunes:duration>
-      <itunes:episode>120</itunes:episode>
-    </item>
-    <item>
-      <title>Briefing — Wednesday, August 26</title>
-      <description>In world business, Canada has announced retaliatory tariffs on roughly twenty billion dollars' worth of American goods — a dollar-for-dollar response to levies imposed by the Trump administration…</description>
-      <guid isPermaLink="false">2026-08-26</guid>
-      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-08-26.mp3" length="3311085" type="audio/mpeg"/>
-      <pubDate>Wed, 26 Aug 2026 06:00:00 -0400</pubDate>
-      <itunes:duration>06:54</itunes:duration>
-      <itunes:episode>119</itunes:episode>
+      <title>Briefing — Wednesday, October 28</title>
+      <description>In world business, Treasury yields edged higher overnight as markets wait on the Federal Reserve's next rate decision. That's the dominant macro signal heading into the day. Alongside that…</description>
+      <guid isPermaLink="false">2026-10-28</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-10-28.mp3" length="3247917" type="audio/mpeg"/>
+      <pubDate>Wed, 28 Oct 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>06:46</itunes:duration>
+      <itunes:episode>182</itunes:episode>
     </item>
   </channel>
 </rss>
