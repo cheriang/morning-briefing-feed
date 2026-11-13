@@ -13,13 +13,22 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Nov 2026 11:02:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 11:02:07 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Friday, November 13</title>
+      <description>In world business, the Federal Reserve is recalibrating. October's inflation reading came in at zero point four percent for the month, beating expectations and effectively shelving the rate cuts the…</description>
+      <guid isPermaLink="false">2026-11-13</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-11-13.mp3" length="3377133" type="audio/mpeg"/>
+      <pubDate>Fri, 13 Nov 2026 06:00:00 -0500</pubDate>
+      <itunes:duration>07:02</itunes:duration>
+      <itunes:episode>198</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Thursday, November 12</title>
       <description>In world business, Treasury yields are edging higher this morning as bond markets reopen after Veterans Day. Investors are positioning ahead of fresh inflation and housing data due later this week —…</description>
