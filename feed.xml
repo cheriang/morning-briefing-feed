@@ -13,13 +13,22 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Nov 2026 11:02:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 11:01:36 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Monday, November 16</title>
+      <description>In world business, the FAA ground stop that halted departures nationwide for more than four hours over the weekend is still rippling through schedules. Flights are back on track as of this morning…</description>
+      <guid isPermaLink="false">2026-11-16</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-11-16.mp3" length="3055341" type="audio/mpeg"/>
+      <pubDate>Mon, 16 Nov 2026 06:00:00 -0500</pubDate>
+      <itunes:duration>06:22</itunes:duration>
+      <itunes:episode>201</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Friday, November 13</title>
       <description>In world business, the Federal Reserve is recalibrating. October's inflation reading came in at zero point four percent for the month, beating expectations and effectively shelving the rate cuts the…</description>
