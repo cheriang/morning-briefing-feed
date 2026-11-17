@@ -13,13 +13,22 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Nov 2026 11:01:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 11:02:03 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Tuesday, November 17</title>
+      <description>In world business, Disney reports earnings before the bell this morning — investors are watching for CEO Josh D'Amaro's strategy following a round of company-wide layoffs. Separately, Federal…</description>
+      <guid isPermaLink="false">2026-11-17</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-11-17.mp3" length="3701421" type="audio/mpeg"/>
+      <pubDate>Tue, 17 Nov 2026 06:00:00 -0500</pubDate>
+      <itunes:duration>07:43</itunes:duration>
+      <itunes:episode>202</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Monday, November 16</title>
       <description>In world business, the FAA ground stop that halted departures nationwide for more than four hours over the weekend is still rippling through schedules. Flights are back on track as of this morning…</description>
