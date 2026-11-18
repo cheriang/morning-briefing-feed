@@ -13,13 +13,22 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2026 11:02:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 11:01:55 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Wednesday, November 18</title>
+      <description>In world business, Nvidia's third-quarter earnings beat expectations and sparked a rally in the stock and across neocloud names — but analysts are flagging longer-term uncertainty around leadership…</description>
+      <guid isPermaLink="false">2026-11-18</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-11-18.mp3" length="3237165" type="audio/mpeg"/>
+      <pubDate>Wed, 18 Nov 2026 06:00:00 -0500</pubDate>
+      <itunes:duration>06:45</itunes:duration>
+      <itunes:episode>203</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Tuesday, November 17</title>
       <description>In world business, Disney reports earnings before the bell this morning — investors are watching for CEO Josh D'Amaro's strategy following a round of company-wide layoffs. Separately, Federal…</description>
