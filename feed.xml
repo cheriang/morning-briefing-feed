@@ -13,13 +13,22 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Nov 2026 11:01:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 11:02:15 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Friday, November 20</title>
+      <description>In world business, Japan's core inflation hit its highest point this year after the government let energy subsidies expire, pushing consumer prices up faster than expected. That signals the Bank of…</description>
+      <guid isPermaLink="false">2026-11-20</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-11-20.mp3" length="3359661" type="audio/mpeg"/>
+      <pubDate>Fri, 20 Nov 2026 06:00:00 -0500</pubDate>
+      <itunes:duration>07:00</itunes:duration>
+      <itunes:episode>205</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Thursday, November 19</title>
       <description>In world business, Walmart reports earnings before the bell this morning — the results will serve as a real-time read on consumer spending heading into the holiday season, with analysts watching…</description>
