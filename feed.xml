@@ -13,13 +13,22 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Nov 2026 11:02:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 11:01:37 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Monday, November 23</title>
+      <description>Treasury yields are climbing this morning, partially reversing last week's moves, as stock futures point to a strong open on Wall Street. New York Fed President John Williams is scheduled to speak…</description>
+      <guid isPermaLink="false">2026-11-23</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-11-23.mp3" length="3037293" type="audio/mpeg"/>
+      <pubDate>Mon, 23 Nov 2026 06:00:00 -0500</pubDate>
+      <itunes:duration>06:20</itunes:duration>
+      <itunes:episode>208</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Friday, November 20</title>
       <description>In world business, Japan's core inflation hit its highest point this year after the government let energy subsidies expire, pushing consumer prices up faster than expected. That signals the Bank of…</description>
