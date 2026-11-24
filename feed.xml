@@ -13,13 +13,22 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Nov 2026 11:01:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 11:02:00 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Tuesday, November 24</title>
+      <description>In world business, the Bank of France governor told CNBC he still expects growth despite recession risk signals, pointing to resilience in defense, aerospace, and electricity. That's a useful read…</description>
+      <guid isPermaLink="false">2026-11-24</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-11-24.mp3" length="3678189" type="audio/mpeg"/>
+      <pubDate>Tue, 24 Nov 2026 06:00:00 -0500</pubDate>
+      <itunes:duration>07:40</itunes:duration>
+      <itunes:episode>209</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Monday, November 23</title>
       <description>Treasury yields are climbing this morning, partially reversing last week's moves, as stock futures point to a strong open on Wall Street. New York Fed President John Williams is scheduled to speak…</description>
