@@ -13,13 +13,22 @@
       <link>https://cheriang.github.io/morning-briefing-feed/feed.xml</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Nov 2026 11:02:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 11:02:03 +0000</lastBuildDate>
     <itunes:author>George Cherian</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://cheriang.github.io/morning-briefing-feed/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Personalized daily briefing covering business, markets, and industry news. Single-listener feed.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Briefing — Wednesday, November 25</title>
+      <description>The US is preparing to unveil a new round of tariffs targeting major trading partners including China and the European Union. The announcement is expected imminently, and markets are watching…</description>
+      <guid isPermaLink="false">2026-11-25</guid>
+      <enclosure url="https://cheriang.github.io/morning-briefing-feed/episodes/briefing_2026-11-25.mp3" length="3651885" type="audio/mpeg"/>
+      <pubDate>Wed, 25 Nov 2026 06:00:00 -0500</pubDate>
+      <itunes:duration>07:36</itunes:duration>
+      <itunes:episode>210</itunes:episode>
+    </item>
     <item>
       <title>Briefing — Tuesday, November 24</title>
       <description>In world business, the Bank of France governor told CNBC he still expects growth despite recession risk signals, pointing to resilience in defense, aerospace, and electricity. That's a useful read…</description>
